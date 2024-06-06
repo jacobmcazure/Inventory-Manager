@@ -1,4 +1,4 @@
-Inventory Management Application
+# Inventory Management Application
 
 #### Author: Jacob McEwen
 #### Contact Information: jacobmcewen7@gmail.com
